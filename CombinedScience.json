@@ -2,8 +2,12 @@
   "imagepath": ".png",
   "title": "Welcome to Combined Science Practice",
   "papers": {
-    "2025 ": "",
-    "2024": "",
-    "2023": ""
+    "2025 FM": "https://raw.githubusercontent.com/Fero-Devolober/Combinedscience-/318a8a017844e34387f2ea1fac49f993de165a01/0653-22-fm-2025.json",
+    "2025 MJ 21": "https://raw.githubusercontent.com/Fero-Devolober/Combinedscience-/318a8a017844e34387f2ea1fac49f993de165a01/0653-21-mj-2025.json",
+    "2025 MJ 22": "https://raw.githubusercontent.com/Fero-Devolober/Combinedscience-/318a8a017844e34387f2ea1fac49f993de165a01/0653-22-mj-2025.json",
+    "2025 MJ 23": "https://raw.githubusercontent.com/Fero-Devolober/Combinedscience-/318a8a017844e34387f2ea1fac49f993de165a01/0653-23-mj-2025.json",
+    "2025 ON 21": "https://raw.githubusercontent.com/Fero-Devolober/Combinedscience-/318a8a017844e34387f2ea1fac49f993de165a01/0653-21-on-2025.json",
+    "2025 ON 22": "https://raw.githubusercontent.com/Fero-Devolober/Combinedscience-/318a8a017844e34387f2ea1fac49f993de165a01/0653-22-on-2025.json",
+    "2025 ON 23": "https://raw.githubusercontent.com/Fero-Devolober/Combinedscience-/318a8a017844e34387f2ea1fac49f993de165a01/0653-23-on-2025.json"
   }
 }
